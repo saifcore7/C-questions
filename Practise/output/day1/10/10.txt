@@ -1,0 +1,8 @@
+how many white space characters are allowed in c 
+5 0r 6
+' '
+\n = new line
+\t = horizontal tab
+\v = vertical tab
+\r = carriage return 
+\f = form feed

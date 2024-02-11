@@ -1,0 +1,1 @@
+c is a procedural oriented + general purpose + structured language
